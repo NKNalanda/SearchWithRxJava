@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "301689173389",
+    "firebase_url": "https://diagnal-f701a.firebaseio.com",
+    "project_id": "diagnal-f701a",
+    "storage_bucket": "diagnal-f701a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301689173389:android:5265b460bb93e8a80bb9c4",
+        "android_client_info": {
+          "package_name": "com.nknalanda.diagnalsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301689173389-vvrueth99qvm4inro560iku1hqlg9g0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nknalanda.diagnalsearch",
+            "certificate_hash": "fded9869261bf9ec6b359be56e4172f52c5bae56"
+          }
+        },
+        {
+          "client_id": "301689173389-74l3n45krr6mn6f99kn98kcgpk2sqaab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbcbuTTqk0swJRGRQ_ibm3HmypKktyZgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301689173389-74l3n45krr6mn6f99kn98kcgpk2sqaab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
